@@ -14,12 +14,12 @@
 					<td rowspan="2">
 						<img src="<?php echo base_url()?>/img/adventure1.png" style="height:150px; width:100px; margin-top: 40px; margin-left: 20px; width: 160px; height: 220px;">
 					</td><td rowspan="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
-					<td style="font-family: Tarijan Pro; font-size: 35px; text-align: center; color: white; padding-bottom: -40px; padding-top: 20px;">
+					<td style="font-family: Tarijan Pro; font-size: 35px; text-align: center; color: white; padding-top: 50px;">
 						POKÉMON ADVENTURE
 					</td>
 				</tr>
 				<tr>
-					<td width="650" style="font-family: tarijan pro; font-size: 20px; color: white; text-align: justify;">
+					<td width="650" style="font-family: tarijan pro; font-size: 20px; color: white; text-align: justify; padding-bottom: 20px;">
 						Sinopsis :  Bulbasaur and others that follow storylines from the videogames! PokÉmon trainer Red goes off on a training challenge and...never comes back!!!...Will they be founded?
 					</td>
 				</tr>
