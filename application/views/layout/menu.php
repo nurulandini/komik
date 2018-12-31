@@ -8,12 +8,12 @@
             <li class="nav-item active px-lg-4">
             <a class="nav-link text-uppercase text-expanded" href="<?php echo base_url()?>" style="font-family: trajan pro; font-size: 25px;"><u>Home</u></a>
             </li>
-            <li><a  class="nav-link text-uppercase text-expanded" href="<?php echo base_url()?>Genre/aliran" style="font-family: trajan pro; font-size: 25px;"><u>GENRE</u></a></li>
+            <li><a  class="nav-link text-uppercase text-expanded" href="<?php echo base_url()?>genre" style="font-family: trajan pro; font-size: 25px;"><u>GENRE</u></a></li>
             <li class="nav-item px-lg-4">
             <a class="nav-link text-uppercase text-expanded" href="#" style="font-family: trajan pro; font-size: 25px;"><u>POPULAR</u></a>
             </li>
             <li class="nav-item px-lg-4">
-            <a class="nav-link text-uppercase text-expanded" href="#" style="font-family: trajan pro; font-size: 25px;"><u>ABOUT</u></a>
+            <a class="nav-link text-uppercase text-expanded" href="<?php echo base_url()?>about" style="font-family: trajan pro; font-size: 25px;"><u>ABOUT</u></a>
             </li>
           </ul>
         </div>

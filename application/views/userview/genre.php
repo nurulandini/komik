@@ -1,9 +1,4 @@
-<div class="row">
-	<div class="col-md-12">
-		<div class="container" style="background-color: #8a9dab;border-width: 0px; width: 1120px; height: 250px;">
-			<div id="demo" class="carousel slide" data-ride="carousel">
-
-			 <div class="row" style="padding-top: 2em;padding-bottom: -100px">
+<div class="row" style="padding-top: 2em">
 			<div class="col-md-4">
 				<div class="container" style="border-width: 0px;background-color: #0e2854;height: 60px;color: white;text-align: center;padding-top: 10px;font-family: Trajan Pro; font-size: 30px;width: 360px;">
 					ADVENTURE
@@ -20,7 +15,7 @@
 				</div>
 			</div>
 		</div>
-		<div class="row" style="padding-top: -200px;">
+		<div class="row" style="margin-top: -10px;">
 			<div class="col-md-4">
 				<div class="container" style="border-width: 0px;background-color: #8a9dab;height: 300px;width: 360px">
 					<table>
@@ -99,6 +94,3 @@
 					</table>
 				</div>
 			</div>
-		</div>
-	</div>
-</div>

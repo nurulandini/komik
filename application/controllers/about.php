@@ -2,12 +2,12 @@
 defined('BASEPATH') OR exit('No direct script access allowed');
 
 
-class Genre extends CI_Controller
+class About extends CI_Controller
 {
 	public function index()
 	{
 		$data['border']='transparent';
-		$data['page']='userview/genre';
+		$data['page']='userview/about';
 		$this->load->view('layout/main', $data);
 	}
 

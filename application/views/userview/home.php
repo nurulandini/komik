@@ -30,10 +30,10 @@
 			  </div>
 
 			  <!-- Left and right controls -->
-			  <a class="carousel-control-prev" href="#demo" data-slide="prev">
+			  <a class="carousel-control-prev" href="#" data-slide="prev">
 			    <span class="carousel-control-prev-icon" style="margin-right: 100px;"></span>
 			  </a>
-			  <a class="carousel-control-next" href="#demo" data-slide="next">
+			  <a class="carousel-control-next" href="#" data-slide="next">
 			    <span class="carousel-control-next-icon" style="margin-left: 100px;"></span>
 			  </a>
   			</div>
