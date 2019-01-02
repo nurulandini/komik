@@ -39,7 +39,7 @@
 					</td><td rowspan="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
 					<td style="font-family: Tarijan Pro; font-size: 30px; color: white; padding-top: 100px;">
 						ONE PIECE
-					</td>
+					</td><hr color="white" width="990px">
 				</tr>
 				<tr>
 					<td style="color: white; font-family: times new roman; padding-bottom: 70px;">
@@ -58,7 +58,7 @@
 					</td><td rowspan="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
 					<td style="font-family: Tarijan Pro; font-size: 30px; color: white; padding-top: 100px;">
 						CRAYON SHINCHAN
-					</td>
+					</td><hr color="white" width="990px">
 				</tr>
 				<tr>
 					<td style="color: white; font-family: times new roman; padding-bottom: 70px;">
@@ -77,7 +77,7 @@
 					</td><td rowspan="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
 					<td style="font-family: Tarijan Pro; font-size: 25px; color: white; padding-top: 100px;">
 						TINTIN AND THE PICAROS
-					</td>
+					</td><hr color="white" width="990px">
 				</tr>
 				<tr>
 					<td style="color: white; font-family: times new roman; padding-bottom: 70px;">
@@ -96,7 +96,7 @@
 					</td><td rowspan="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
 					<td style="font-family: Tarijan Pro; font-size: 25px; color: white; padding-top: 100px;">
 						TERJEBAK NOSTALGIA
-					</td>
+					</td><hr color="white" width="990px">
 				</tr>
 				<tr>
 					<td style="color: white; font-family: times new roman; padding-bottom: 70px;">
