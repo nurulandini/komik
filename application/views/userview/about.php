@@ -1,20 +1,17 @@
 <div class="row">
 	<div class="col-md-12">
 		<div class="container" style="background-color: #8a9dab;border-width: 0px; width: 1120px; height: 250px;">
+	
+		 <u style="color:white;"><p style="font-family: Lucida Handwriting; font-size: 35px;color: white; padding-top: 30px; padding-bottom: 30px; text-align: center;">ABOUT US</p></u>
+
 		<table>
-			<tr>
-		<td style="font-family: Tarijan Pro; font-size: 25px;color: white;">
+		<td style="font-family: Tarijan Pro; font-size: 27px;color: white; padding-bottom: 50px;">
 			ABOUT THIS WEBSITE
 		</td>
-			</tr>
-		<td style="font-family: Tarijan Pro; font-size: 30px; margin-left: 20px; color: white; padding-top: 50px;">
+		<td style="font-family: Tarijan Pro; font-size: 25px; color: white; padding-top: 50px;">
 			ENJOY READ THE COMICS! YOU CAN CONTACT US BELOW HERE...
 		</td>
 		</table>
-		<div class="container" style="background-color: #8a9dab;border-width: 0px; width: 1120px; height: 500px;">
-			<div id="demo" class="carousel slide" data-ride="carousel">
-
-			</div>
 		</div>
 	</div>
 </div>
