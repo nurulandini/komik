@@ -64,7 +64,7 @@
 				</div>
 			</div>
 		</div>
-		<div class="row" style="padding-top: -200px;">
+		<div class="row" style="padding-top: -100px;">
 			<div class="col-md-4">
 				<div class="container" style="border-width: 0px;background-color: #8a9dab;height: 300px;width: 360px">
 					<table>
