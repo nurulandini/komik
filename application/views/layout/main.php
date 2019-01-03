@@ -17,7 +17,34 @@
 <body style="background-color: #c1c1c1;">
 	<?php 
 	$this->load->view('layout/navbar');
-	$this->load->view('layout/menu');
+	if ($page=='userview/home') {
+			$menu['home'] = 'active';
+			$menu['genre'] = '';
+			$menu['popular'] = '';
+			$menu['about'] = '';
+			$this->load->view('layout/menu',$menu);
+		 }
+		 elseif ($page=='userview/genre') {
+		  	$menu['home'] = '';
+		  	$menu['genre'] = 'active';
+		  	$menu['popular'] = '';
+			$menu['about'] = '';
+			$this->load->view('layout/menu',$menu);
+		  }
+		 elseif ($page=='userview/popular') {
+		  	$menu['home'] = '';
+		  	$menu['genre'] = '';
+		  	$menu['popular'] = 'active';
+			$menu['about'] = '';
+			$this->load->view('layout/menu',$menu);
+		  }
+		  elseif ($page=='userview/about') {
+		   $menu['home'] = '';
+		  	$menu['genre'] = '';
+		  	$menu['popular'] = '';
+			$menu['about'] = 'active';
+			$this->load->view('layout/menu',$menu);
+		   } 
 	?>
 	<div class="container" style="border-color: <?php echo $border?>;border-style: solid;">
 		<?php $this->load->view($page)?>
