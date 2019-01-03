@@ -19,7 +19,7 @@
 				<p style="font-family: Tarijan Pro; font-size: 23px;color: white; padding-bottom: 10px;"><b>ABOUT THIS WEBSITE</b></p>
 			</tr>
 			<tr>
-				<p style="font-family: Tarijan Pro; font-size: 23px; color: white; margin-left: 75px;">The name of this website is <u class="id">manga.Q</u> and made by us for them who loves reading manga become easier and more efficient. Then the appearance of <u class="id">manga.Q</u> is made more interested so that readers are more eager to read. Readers can choose manga's genres as they want.</p>
+				<p style="font-family: Tarijan Pro; font-size: 23px; color: white; margin-left: 75px;">The name of this website is <b class="id">manga.Q</b> and made by us for them who loves reading manga become easier and more efficient. Then the appearance of <b class="id">manga.Q</b> is made more interested so that readers are more eager to read. Readers can choose manga's genres as they want.</p>
 			</tr>
 			<tr>
 				<p style="font-family: Tarijan Pro; font-size: 23px; color: white; margin-left: 75px;">So enjoy read the manga's! You can contact us below here...</p>
