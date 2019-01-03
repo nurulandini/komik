@@ -1,17 +1,17 @@
 <div class="row" style="padding-top: 2em">
 			<div class="col-md-4">
-				<div class="container" style="border-width: 0px;background-color: #0e2854;height: 60px;color: white;text-align: center;padding-top: 10px;font-family: Trajan Pro; font-size: 30px;width: 360px;">
-					<a  class="nav-link text-uppercase text-expanded" href="<?php echo base_url()?>Genre/action">ACTION</a>
+				<div class="container" style="border-width: 0px;background-color: #0e2854;height: 60px;color: white;text-align: center;padding-top: 3px;font-family: Trajan Pro; font-size: 30px;width: 360px;">
+					<a  class="nav-link text-uppercase text-expanded" href="<?php echo base_url()?>Genre/action" style="color: white;">ACTION</a>
 				</div>
 			</div>
 			<div class="col-md-4">
-				<div class="container" style="border-width: 0px;background-color: #0e2854;height: 60px;color: white;text-align: center;padding-top: 10px;font-family: Trajan Pro; font-size: 30px;width: 360px;">
-					<a  class="nav-link text-uppercase text-expanded" href="<?php echo base_url()?>Genre/adventure">ADVENTURE</a>
+				<div class="container" style="border-width: 0px;background-color: #0e2854;height: 60px;color: white;text-align: center;padding-top: 3px;font-family: Trajan Pro; font-size: 30px;width: 360px;">
+					<a  class="nav-link text-uppercase text-expanded" href="<?php echo base_url()?>Genre/adventure" style="color: white;">ADVENTURE</a>
 				</div>
 			</div>
 			<div class="col-md-4">
-				<div class="container" style="border-width: 0px;background-color: #0e2854;height: 60px;color: white;text-align: center;padding-top: 10px; font-family: Trajan Pro; font-size: 30px;width: 360px;">
-					<a  class="nav-link text-uppercase text-expanded" href="<?php echo base_url()?>Genre/comedy">COMEDY</a>
+				<div class="container" style="border-width: 0px;background-color: #0e2854;height: 60px;color: white;text-align: center;padding-top: 3px; font-family: Trajan Pro; font-size: 30px;width: 360px;">
+					<a  class="nav-link text-uppercase text-expanded" href="<?php echo base_url()?>Genre/comedy" style="color: white;">COMEDY</a>
 				</div>
 			</div>
 		</div>
@@ -49,18 +49,18 @@
 		</div>
 		<div class="row" style="padding-top: 2em;padding-bottom: -100px">
 			<div class="col-md-4">
-				<div class="container" style="border-width: 0px;background-color: #0e2854;height: 60px;color: white;text-align: center;padding-top: 10px;font-family: Trajan Pro; font-size: 30px;width: 360px;">
-					<a  class="nav-link text-uppercase text-expanded" href="<?php echo base_url()?>Genre/fantasy">FANTASY</a>
+				<div class="container" style="border-width: 0px;background-color: #0e2854;height: 60px;color: white;text-align: center;padding-top: 3px;font-family: Trajan Pro; font-size: 30px;width: 360px;">
+					<a  class="nav-link text-uppercase text-expanded" href="<?php echo base_url()?>Genre/fantasy" style="color: white;">FANTASY</a>
 				</div>
 			</div>
 			<div class="col-md-4">
-				<div class="container" style="border-width: 0px;background-color: #0e2854;height: 60px;color: white;text-align: center;padding-top: 10px;font-family: Trajan Pro; font-size: 30px;width: 360px;">
-					<a  class="nav-link text-uppercase text-expanded" href="<?php echo base_url()?>Genre/horror">HORROR</a>
+				<div class="container" style="border-width: 0px;background-color: #0e2854;height: 60px;color: white;text-align: center;padding-top: 3px;font-family: Trajan Pro; font-size: 30px;width: 360px;">
+					<a  class="nav-link text-uppercase text-expanded" href="<?php echo base_url()?>Genre/horror" style="color: white;">HORROR</a>
 				</div>
 			</div>
 			<div class="col-md-4">
-				<div class="container" style="border-width: 0px;background-color: #0e2854;height: 60px;color: white;text-align: center;padding-top: 10px; font-family: Trajan Pro; font-size: 30px;width: 360px;">
-					<a  class="nav-link text-uppercase text-expanded" href="<?php echo base_url()?>Genre/romance">ROMANCE</a>
+				<div class="container" style="border-width: 0px;background-color: #0e2854;height: 60px;color: white;text-align: center;padding-top: 3px; font-family: Trajan Pro; font-size: 30px;width: 360px;">
+					<a  class="nav-link text-uppercase text-expanded" href="<?php echo base_url()?>Genre/romance" style="color: white;">ROMANCE</a>
 				</div>
 			</div>
 		</div>
