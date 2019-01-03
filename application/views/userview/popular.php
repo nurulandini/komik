@@ -8,7 +8,7 @@
 
 <div class="row">
 	<div class="col-md-12">
-		<div class="container" style="background-color: #8a9dab;border-width: 0px; width: 1120px; height: 1325px;">
+		<div class="container" style="background-color: #8a9dab;border-width: 1px; width: 1120px; height: 1325px; border-color: white;">
 			<table border="0" align="center">
 				<tr>
 					<td rowspan="2">
