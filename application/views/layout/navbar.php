@@ -21,9 +21,9 @@
 		    			<span class="navbar-toggler-icon"></span>
 		  			</button>
   				</td>
-	  			<td style="padding-left: 970px;">
+	  			<td style="padding-left: 750px;">
 		  			<form class="form-inline my-2 my-lg-0">
-		      			<input class="form-control mr-sm-2" type="text" placeholder="Search" style="width:250px;">
+		      			<input class="form-control mr-sm-2" type="text" placeholder="Search" style="width:230px;">
 		      			<button class="btn btn-warning my-2 my-sm-0" type="submit"> <img src="<?php echo base_url() ?>img/Search_Icon-512.png" width="25" height="25"></button>
 		    		</form>
 	  			</td>
