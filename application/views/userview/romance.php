@@ -2,9 +2,9 @@
 	<div class="col-md-12">
 		<div class="container" style="background-color: #8a9dab;border-width: 1px; width: 1120px; height: 500px; border-color:white;">
 	
-		 <p style="font-family: Lucida Handwriting; font-size: 35px;color: white; padding-top: 20px; text-align: center; ">ROMANCE</p><hr color="white">
+		 <p style="font-family: Trajan Pro; font-size: 35px;color: white; padding-top: 20px; text-align: center; ">ROMANCE</p><hr color="white">
 
-		<table>
+		<!--<table>
 			<tr>
 				<p style="font-family: Tarijan Pro; font-size: 23px;color: white; padding-bottom: 10px;"><b>ABOUT THIS WEBSITE</b></p>
 			</tr>
@@ -14,7 +14,7 @@
 			<tr>
 				<p style="font-family: Tarijan Pro; font-size: 23px; color: white; margin-left: 75px;">So enjoy read the manga's! You can contact us below here...</p>
 			</tr>
-		</table>
+		</table>-->
 		</div>
 	</div>
 </div>
