@@ -1,3 +1,31 @@
+<style type="text/css">
+	a {
+  text-decoration: none;
+  display: inline-block;
+  padding: 8px 16px;
+}
+
+a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.previous {
+  background-color: #f1f1f1;
+  color: black;
+}
+
+.next {
+  background-color: #f1f1f1;
+  color: black;
+  margin-left: 1000px;
+}
+
+.round {
+  border-radius: 50%;
+    margin-top: 350px;
+}
+</style>
 <div class="row">
 	<div class="col-md-12">
 		<div class="container" style="background-color: #8a9dab;border-width: 1px; width: 1120px; height: 500px; border-color:white;">
@@ -15,6 +43,8 @@
 				<p style="font-family: Tarijan Pro; font-size: 23px; color: white; margin-left: 75px;">So enjoy read the manga's! You can contact us below here...</p>
 			</tr>
 		</table>-->
+			<a href="#" class="previous round">&#8249;</a>
+		<a href="#" class="next round">&#8250;</a>
 		</div>
 	</div>
 </div>
