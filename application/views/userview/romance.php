@@ -1,30 +1,22 @@
 <style type="text/css">
-	a {
+a {
   text-decoration: none;
   display: inline-block;
-  padding: 8px 16px;
+  font-size: 50px;
 }
 
-a:hover {
-  background-color: #ddd;
-  color: black;
-}
 
 .previous {
-  background-color: #f1f1f1;
-  color: black;
+  color: #121c46;
+  margin-top: 320px;
 }
 
+
 .next {
-  background-color: #f1f1f1;
   color: black;
   margin-left: 1000px;
 }
 
-.round {
-  border-radius: 50%;
-    margin-top: 350px;
-}
 </style>
 <div class="row">
 	<div class="col-md-12">
@@ -43,8 +35,8 @@ a:hover {
 				<p style="font-family: Tarijan Pro; font-size: 23px; color: white; margin-left: 75px;">So enjoy read the manga's! You can contact us below here...</p>
 			</tr>
 		</table>-->
-		<a href="#" class="previous round">&#8249;</a>
-		<a href="#" class="next round">&#8250;</a>
+		<a href="#" class="previous round">&#11164;</a>
+		<a href="#" class="next round">&#11166;</a>
 		</div>
 	</div>
 </div>
