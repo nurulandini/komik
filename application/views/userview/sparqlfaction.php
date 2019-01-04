@@ -1,6 +1,6 @@
 <?php
 
-function getUrlDbpediaAbstract($term)
+function getUrlDbpediaAction($term)
 {
 	$format = 'json';
 	$query =
