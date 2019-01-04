@@ -11,7 +11,8 @@ a {
 
 .previous {
   color: #121c46;
-  margin-top: 320px;
+  margin-top: 230px;
+  margin-left: 30px;
 }
 
 
@@ -23,7 +24,7 @@ a {
 </style>
 <div class="row">
 	<div class="col-md-12">
-		<div class="container" style="background-color: #8a9dab;border-width: 1px; width: 1120px; height: 500px; border-color:white;">
+		<div class="container" style="background-color: #8a9dab;border-width: 1px; width: 1120px; height: 600px; border-color:white;">
 	
 		 <p style="font-family: Trajan Pro; font-size: 35px;color: white; padding-top: 20px; text-align: center; ">COMEDY</p><hr color="white">
 		  	<?php $i=0;?>

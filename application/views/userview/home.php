@@ -14,11 +14,11 @@
 			  <div class="carousel-inner" >
 			    <div class="carousel-item active">
 			    	<table>
-			      <td><img src="<?php echo base_url()?>/img/naruto.jpg" alt="Los Angeles" style="height:150px; width:100px; margin-top: 15px; margin-left: 80px; width: 160px; height: 220px;"></td>
-			      <td><img src="<?php echo base_url()?>/img/uzumaki.jpg" alt="Chicago" style="height:150px; width:100px; margin-top: 15px; margin-left: 30px; width: 160px; height: 220px;"></td>
-			      <td><img src="<?php echo base_url()?>/img/1.jpg" alt="Chicago" style="height:150px; width:100px; margin-top: 15px; margin-left: 30px; width: 160px; height: 220px;"></td>
-			      <td><img src="<?php echo base_url()?>/img/action.jpg" alt="Chicago" style="height:150px; width:100px; margin-top: 15px; margin-left: 30px; width: 160px; height: 220px;"></td>
-			      <td><img src="<?php echo base_url()?>/img/tahi.jpg" alt="Chicago" style="height:150px; width:100px; margin-top: 15px; margin-left: 30px; width: 160px; height: 220px;"></td>
+			      <td><img src="<?php echo base_url()?>/img/station.png" alt="Los Angeles" style="height:150px; width:100px; margin-top: 15px; margin-left: 80px; width: 160px; height: 220px;"></td>
+			      <td><img src="<?php echo base_url()?>/img/horror.jpg" alt="Chicago" style="height:150px; width:100px; margin-top: 15px; margin-left: 30px; width: 160px; height: 220px;"></td>
+			      <td><img src="<?php echo base_url()?>/img/romance.png" alt="Chicago" style="height:150px; width:100px; margin-top: 15px; margin-left: 30px; width: 160px; height: 220px;"></td>
+			      <td><img src="<?php echo base_url()?>/img/actionn.jpg" alt="Chicago" style="height:150px; width:100px; margin-top: 15px; margin-left: 30px; width: 160px; height: 220px;"></td>
+			      <td><img src="<?php echo base_url()?>/img/comedy.png" alt="Chicago" style="height:150px; width:100px; margin-top: 15px; margin-left: 30px; width: 160px; height: 220px;"></td>
 			      </table>
 			    </div>
 			    <div class="carousel-item">
@@ -60,8 +60,8 @@
 				<div class="container" style="border-width: 0px;background-color: #8a9dab;height: 300px;width: 360px">
 					<table>
 						<tr>
-							<td width="300px" height="300px"><img src="<?php echo base_url()?>/img/naruto.jpg" style="width: 160px; height: 220px;"></td><td>&nbsp;</td>
-							<td width="300px" height="300px"><img src="<?php echo base_url()?>/img/2.jpg" style="width: 160px; height: 220px;"></td>
+							<td width="300px" height="300px"><img src="<?php echo base_url()?>/img/station.png" style="width: 160px; height: 220px;"></td><td>&nbsp;</td>
+							<td width="300px" height="300px"><img src="<?php echo base_url()?>/img/onepiecee.png" style="width: 160px; height: 220px;"></td>
 						</tr>
 					</table>
 				</div>
@@ -70,8 +70,8 @@
 				<div class="container" style="border-width: 0px;background-color: #8a9dab;height: 300px;width: 360px">
 					<table>
 						<tr>
-							<td width="300px" height="300px"><img src="<?php echo base_url()?>/img/1.jpg" style="width: 160px; height: 220px;"></td><td>&nbsp;</td>
-							<td width="300px" height="300px"><img src="<?php echo base_url()?>/img/romance2.jpg" style="width: 160px; height: 220px;"></td>
+							<td width="300px" height="300px"><img src="<?php echo base_url()?>/img/romance.png" style="width: 160px; height: 220px;"></td><td>&nbsp;</td>
+							<td width="300px" height="300px"><img src="<?php echo base_url()?>/img/romancee.png" style="width: 160px; height: 220px;"></td>
 						</tr>
 					</table>
 				</div>
@@ -80,8 +80,8 @@
 				<div class="container" style="border-width: 0px;background-color: #8a9dab;height: 300px;width: 360px">
 					<table>
 						<tr>
-							<td width="300px" height="300px"><img src="<?php echo base_url()?>/img/horror2.jpeg" style="width: 160px; height: 220px;"></td><td>&nbsp;</td>
-							<td width="300px" height="300px"><img src="<?php echo base_url()?>/img/horror3.jpg" style="width: 160px; height: 220px;"></td>
+							<td width="300px" height="300px"><img src="<?php echo base_url()?>/img/horror.jpg" style="width: 160px; height: 220px;"></td><td>&nbsp;</td>
+							<td width="300px" height="300px"><img src="<?php echo base_url()?>/img/horrorr.jpg" style="width: 160px; height: 220px;"></td>
 						</tr>
 					</table>
 				</div>
