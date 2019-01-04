@@ -31,13 +31,6 @@
 			$menu['about'] = '';
 			$this->load->view('layout/menu',$menu);
 		  }
-		 elseif ($page=='userview/popular') {
-		  	$menu['home'] = '';
-		  	$menu['genre'] = '';
-		  	$menu['popular'] = 'active';
-			$menu['about'] = '';
-			$this->load->view('layout/menu',$menu);
-		  }
 		  elseif ($page=='userview/about') {
 		   $menu['home'] = '';
 		  	$menu['genre'] = '';

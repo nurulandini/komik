@@ -11,9 +11,6 @@
             <li class="nav-item <?php echo $genre ?> px-lg-4">
             <a  class="nav-link text-uppercase text-expanded" href="<?php echo base_url()?>genre" style="font-family: trajan pro; font-size: 25px;"><u>GENRE</u></a>
             </li>
-            <li class="nav-item <?php echo $popular ?> px-lg-4">
-            <a class="nav-link text-uppercase text-expanded" href="<?php echo base_url()?>popular" style="font-family: trajan pro; font-size: 25px;"><u>POPULAR</u></a>
-            </li>
             <li class="nav-item <?php echo $about ?> px-lg-4">
             <a class="nav-link text-uppercase text-expanded" href="<?php echo base_url()?>about" style="font-family: trajan pro; font-size: 25px;"><u>ABOUT</u></a>
             </li>
