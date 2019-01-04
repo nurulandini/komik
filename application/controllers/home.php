@@ -11,6 +11,14 @@ class Home extends CI_Controller
 		$data['page']='userview/home';
 		$this->load->view('layout/main', $data);
 	}
+
+	public function deskripsi($id)
+	{
+		$data['id'] = $id;
+		$data['border']='transparent' ;
+		$data['page']='userview/konten' ;
+		$this->load->view('layout/konten',$data);
+	}
 }
 
 
