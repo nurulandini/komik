@@ -1,6 +1,6 @@
 <?php
 
-function getUrlDbpediaFantasy($term)
+function getUrlDbpediaRomance($term)
 {
 	$format = 'json';
 	$query =
@@ -24,7 +24,7 @@ function getUrlDbpediaFantasy($term)
 	FILTER (lang(?Genre)='en') .
 	FILTER (lang(?Author)='en') .
 	FILTER (lang(?Synopsis)='en') .
-	FILTER regex(?Genre,'^Fantasy')
+	FILTER regex(?Genre,'^Harem')
 	}";
 
 	$searchUrl = 'http://dbpedia.org/sparql?'
